@@ -1,7 +1,6 @@
-# 🏗 Scaffold-ETH 2
+# Whatllet
 
 <h4 align="center">
-  https://www.notion.so/d9j9v/Whatllet-c241c9b2e33148fba6760fbe5177b004?pvs=4
   <a href="https://www.notion.so/d9j9v/Whatllet-c241c9b2e33148fba6760fbe5177b004?pvs=4">Documentation</a> |
   <a href="https://whatllet.vercel.app/">Website</a>
 </h4>
