@@ -1,8 +1,9 @@
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
-  <a href="https://docs.scaffoldeth.io">Documentation</a> |
-  <a href="https://scaffoldeth.io">Website</a>
+  https://www.notion.so/d9j9v/Whatllet-c241c9b2e33148fba6760fbe5177b004?pvs=4
+  <a href="https://www.notion.so/d9j9v/Whatllet-c241c9b2e33148fba6760fbe5177b004?pvs=4">Documentation</a> |
+  <a href="https://whatllet.vercel.app/">Website</a>
 </h4>
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
