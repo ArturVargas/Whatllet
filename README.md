@@ -5,6 +5,25 @@
   <a href="https://whatllet.vercel.app/">Website</a>
 </h4>
 
+| CHAIN | World ID Router | SC DEPLOY |
+| --- | --- | --- |
+| Base Goerli | https://goerli.basescan.org/address/0x78ec127a3716d447f4575e9c834d452e397ee9e1#code | 0xE3f974D6AC1F1052F00e02E71235A718629CE10a |
+| Stylus | API |  |
+| Polygon Mumbai | https://mumbai.polygonscan.com/address/0x719683F13Eeea7D84fCBa5d7d17Bf82e03E3d260#code | 0x03C7523797c3fe25d214C571aA15a531079b14Ed |
+| Gnosis | API |  |
+| Filecoin FEVM | API |  |
+| Scroll | API | 0xE3f974D6AC1F1052F00e02E71235A718629CE10a |
+| Axiom | API |  |
+| Celo | API |  |
+| Linea | API |  |
+| Neon | API | 0xE3f974D6AC1F1052F00e02E71235A718629CE10a |
+| Mantle | API |  |
+| XDC | API |  |
+| Optimism Goerli
+Bounty? | https://goerli-optimism.etherscan.io/address/0x515f06B36E6D3b707eAecBdeD18d8B384944c87f#code |  |
+| Ethereum Goerli 
+Bounty? | https://goerli.etherscan.io/address/0x11cA3127182f7583EfC416a8771BD4d11Fae4334#code |  |
+
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 ⚙️ Built using NextJS, RainbowKit, Hardhat, Wagmi, and Typescript.
