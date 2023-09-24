@@ -3,7 +3,7 @@ import { MetaHeader } from "~~/components/MetaHeader";
 import { ContractData } from "~~/components/example-ui/ContractData";
 import { ContractInteraction } from "~~/components/example-ui/ContractInteraction";
 
-const ExampleUI: NextPage = () => {
+const Settings: NextPage = () => {
   return (
     <>
       <MetaHeader
@@ -22,4 +22,4 @@ const ExampleUI: NextPage = () => {
   );
 };
 
-export default ExampleUI;
+export default Settings;

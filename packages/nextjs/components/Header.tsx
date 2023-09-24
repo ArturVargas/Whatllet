@@ -42,13 +42,13 @@ export const Header = () => {
       <li>
         <NavLink href="/debug">
           <BugAntIcon className="h-4 w-4" />
-          Debug Contracts
+          Review Contracts
         </NavLink>
       </li>
       <li>
-        <NavLink href="/example-ui">
+        <NavLink href="/settings">
           <SparklesIcon className="h-4 w-4" />
-          Example UI
+          Credit profile
         </NavLink>
       </li>
       <li>
