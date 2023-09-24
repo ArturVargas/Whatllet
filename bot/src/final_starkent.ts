@@ -167,10 +167,10 @@ const handleStep = async (step : number) =>{
 const SendMessage = (message : string, phone : string) => {
     var options = {
         method: 'POST',
-        url: 'https://api.ultramsg.com/instance27643/messages/chat',
+        url: 'https://api.ultramsg.com//messages/chat',
         headers: {'content-type': ' application/json'},
         body: JSON.stringify({
-            "token": "8jpqjwua04059xn7",
+            "token": "",
             "to": phone,
             "body": message
         })
